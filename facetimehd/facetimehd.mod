@@ -1,0 +1,2 @@
+/home/cesare/Projects/drivers_a1398/facetimehd/fthd_ddr.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_hw.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_drv.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_ringbuf.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_isp.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_v4l2.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_buffer.o /home/cesare/Projects/drivers_a1398/facetimehd/fthd_debugfs.o
+

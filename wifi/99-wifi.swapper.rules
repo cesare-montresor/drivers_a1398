@@ -1,0 +1,5 @@
+### /etc/udev/rules.d/99-wifi.swapper.rules
+
+ACTION=="add" , ATTRS{address}=="60:a4:b7:01:f4:3d" , RUN+="/usr/bin/internal_wifi_down.sh"
+ACTION=="remove" , ATTRS{address}=="60:a4:b7:01:f4:3d" , RUN+="/usr/bin/internal_wifi_up.sh"
+
